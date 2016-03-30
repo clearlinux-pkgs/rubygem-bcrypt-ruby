@@ -4,7 +4,7 @@
 #
 Name     : rubygem-bcrypt-ruby
 Version  : 3.1.5
-Release  : 3
+Release  : 4
 URL      : https://rubygems.org/downloads/bcrypt-ruby-3.1.5.gem
 Source0  : https://rubygems.org/downloads/bcrypt-ruby-3.1.5.gem
 Summary  : No detailed summary available
@@ -50,15 +50,9 @@ fi
 
 %files
 %defattr(-,root,root,-)
-/usr/lib64/ruby/gems/2.2.0/cache/bcrypt-ruby-3.1.5.gem
-/usr/lib64/ruby/gems/2.2.0/doc/bcrypt-ruby-3.1.5/ri/BCrypt/Dummy/cdesc-Dummy.ri
-/usr/lib64/ruby/gems/2.2.0/doc/bcrypt-ruby-3.1.5/ri/BCrypt/cdesc-BCrypt.ri
-/usr/lib64/ruby/gems/2.2.0/doc/bcrypt-ruby-3.1.5/ri/cache.ri
-/usr/lib64/ruby/gems/2.2.0/doc/bcrypt-ruby-3.1.5/ri/page-CHANGELOG.ri
-/usr/lib64/ruby/gems/2.2.0/doc/bcrypt-ruby-3.1.5/ri/page-COPYING.ri
-/usr/lib64/ruby/gems/2.2.0/doc/bcrypt-ruby-3.1.5/ri/page-README_md.ri
-/usr/lib64/ruby/gems/2.2.0/gems/bcrypt-ruby-3.1.5/CHANGELOG
-/usr/lib64/ruby/gems/2.2.0/gems/bcrypt-ruby-3.1.5/COPYING
-/usr/lib64/ruby/gems/2.2.0/gems/bcrypt-ruby-3.1.5/README.md
-/usr/lib64/ruby/gems/2.2.0/gems/bcrypt-ruby-3.1.5/lib/bcrypt/dummy.rb
-/usr/lib64/ruby/gems/2.2.0/specifications/bcrypt-ruby-3.1.5.gemspec
+/usr/lib64/ruby/gems/2.3.0/cache/bcrypt-ruby-3.1.5.gem
+/usr/lib64/ruby/gems/2.3.0/gems/bcrypt-ruby-3.1.5/CHANGELOG
+/usr/lib64/ruby/gems/2.3.0/gems/bcrypt-ruby-3.1.5/COPYING
+/usr/lib64/ruby/gems/2.3.0/gems/bcrypt-ruby-3.1.5/README.md
+/usr/lib64/ruby/gems/2.3.0/gems/bcrypt-ruby-3.1.5/lib/bcrypt/dummy.rb
+/usr/lib64/ruby/gems/2.3.0/specifications/bcrypt-ruby-3.1.5.gemspec
