@@ -1,0 +1,4 @@
+# File auto-generated with 'Watchfile generator'
+# 2016-05-06 18:22:16.306389
+# {'~>3.0'}
+watchurl=https://rubygems.org/gems/bcrypt-ruby/versions/([0-3]\.[0-9]{1,2}(?:\.[0-9a-zA-Z]+)*)
